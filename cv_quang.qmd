@@ -1,6 +1,6 @@
 ---
 #title: "cv_quang"
-format: gfm
+format: html
 editor: visual
 ---
 
